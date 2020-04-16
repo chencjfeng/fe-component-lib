@@ -2,7 +2,7 @@
 
 ## 样式
 
-<img src="./step.gif" alt="step" style="zoom:50%;" />
+<img src="https://media.giphy.com/media/iGk9UP4J9rhQsKjuWy/giphy.gif" alt="step" style="zoom:50%;" />
 
 ## 参数-Attributes
 
