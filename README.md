@@ -2,7 +2,7 @@
 
 ## 样式
 
-<img src=".step/step.gif" alt="step" style="zoom:50%;" />
+<img src="https://gph.is/g/E3njRJO" alt="step" style="zoom:50%;" />
 
 ## 参数-Attributes
 
